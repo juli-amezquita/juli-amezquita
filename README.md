@@ -4,17 +4,17 @@
 
 - 📚 Currently learning about Data Science and all its aplications in different business processes.
 - 🎓 BSc in Economics | BSc in Marketing | Specialist in Human Resources Mgmt & Organizational Development.
-- 👀 I’m interested in machine learning, computer science, statistics, data visualization, NLP, Peple Analytics and deep learning.
-- 👟 Running enthusiastic!
+- 👀 I’m interested in machine learning, computer science, statistics, data analysis, data visualization, NLP, People Analytics and deep learning.
+- 👟 Running enthusiast!
 
-📣  How to reach me: :<br/>
+📣  How to reach me:<br/>
 
   <a href="mailto:jamezquita700@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/julianaamezquita/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 <p>
 
-### 💻 Open Source Work Stats
+### 💻 Projects and Learning Stats
 
 ![Juliana's GitHub stats](https://github-readme-stats.vercel.app/api?username=juli-amezquita&show_icons=true&theme=radical&hide=issues,contribs)
 
