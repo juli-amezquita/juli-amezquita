@@ -14,13 +14,6 @@
 </p>
 <p>
 
-### 💻 Projects and Learning Stats
-
-![Juliana's GitHub stats](https://github-readme-stats.vercel.app/api?username=juli-amezquita&show_icons=true&theme=radical&hide=issues,contribs)
-
-![](https://pageview.vercel.app/?github_user=https://github.com/juli-amezquita)
-![GitHub last commit](https://img.shields.io/github/last-commit/juli-amezquita/juli-amezquita?tab=repositories)
-
 <!--
 
 <!---
