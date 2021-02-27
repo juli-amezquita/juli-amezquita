@@ -4,7 +4,7 @@
 
 - 📚 Currently learning about Data Science and all its aplications in different business processes.
 - 🎓 BSc in Economics | BSc in Marketing | Specialist in Human Resources Mgmt & Organizational Development.
-- 👀 I’m interested in machine learning, computer science, statistics, data analysis, data visualization, NLP, People Analytics and deep learning.
+- 👀 I’m interested in Machine Learning, NLP, People Analytics, Statistics, Data Analysis, Data Visualization and Deep Learning.
 - 👟 Running enthusiast!
 
 📣  How to reach me:<br/>
