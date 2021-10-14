@@ -1,6 +1,6 @@
 # **Hello!** 👋 
 
-✨ I'm Juliana Amézquita, I'm a Recruitment Manager and HR Consultant at [Optimal Hunters](http://www.optimalhunters.com/). Passionate about technology, innovation, Data Science, and how it can be used to improve people's lives.
+✨ I'm Juliana Amézquita, I'm a Recruitment Manager and HR Consultant at [Optimal Hunters](http://www.optimalhunters.com/). Passionate about technology, innovation, Data Science, and how they can be used to improve people's lives.
 
 - 📚 Currently learning about Data Science and all its applications in different business processes.
 - 🎓 BSc in Economics | BSc in Marketing | Postgraduate in Human Resources
