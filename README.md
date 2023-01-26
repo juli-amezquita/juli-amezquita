@@ -14,10 +14,11 @@ BSc. in Economics | BSc. in Marketing | MSc. in Visual Analytics and Big Data | 
 * Deep Learning
 * Running enthusiast!👟
 
-# 📣  How to reach me:<br/>
+# 📣 Where can you find me?<br/>
 
-  <a href="mailto:jamezquita700@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/julianaamezquita/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:jamezquita700@gmail.com"><img src="https://img.icons8.com/color/48/null/gmail-new.png"/></a>
+  <a href="https://www.linkedin.com/in/julianaamezquita/"><img src="https://img.icons8.com/fluency/48/null/linkedin.png"/></a>
+  <a href="https://public.tableau.com/app/profile/juli.amezquita"><img src="https://img.icons8.com/color/48/null/tableau-software.png"/></a>
 </p>
 <p>
 
