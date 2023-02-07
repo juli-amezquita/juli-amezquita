@@ -1,6 +1,6 @@
-# Hey!👋 
+# Hey there!👋 
 
-✨ I'm Juliana from Colombia. I'm doing HR Data Analytics or People Analytics. I've been learning about Python programming and Machine Learning algorithms for the latest years and how they can be applied to HR. I'm passionate about technology, innovation, Data Science, and how they can be used to improve people's lives. Currently, I work at [Optimal Hunters](http://www.optimalhunters.com/) as a Recruitment Manager and HR Consultant. 
+✨ I'm Juliana from Colombia and I'm all about HR Data Analytics. I've been diving into the world of Python programming and Machine Learning for the past few years, with a focus on using data to drive positive change in HR. I'm a tech and innovation enthusiast and I love how Data Science can be used to make a real difference in people's lives. Right now, I work as a Recruitment Manager at [Optimal Hunters](http://www.optimalhunters.com/), but I'm always on the lookout for new roles where I can combine my tech skills and passion for HR.
 
 # 🎓 Education
 BSc. in Economics | BSc. in Marketing | MSc. in Visual Analytics and Big Data | Specialist in Big Data and Artificial Intelligence | Specialist in Human Resources Management
