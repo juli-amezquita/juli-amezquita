@@ -1,8 +1,12 @@
 # Hey there!👋 
 
-✨ Hey there, I'm Juliana and I'm all about HR Data Analytics! For the past few years, I've been diving headfirst into the world of Python programming and Machine Learning, and I've gotta say, I'm hooked. I'm all about using data to drive positive change in HR, and I get seriously jazzed when I see the impact it can have on people's lives.
+I'm Juliana, and I'm passionate about blending technology and human resources! With a strong background in HR and a burning passion for technology, I bring a unique perspective to the table. Currently, I'm excelling as a Recruitment Manager at Optimal Hunters, where I leverage my HR expertise to ensure our clients attract the best and brightest talent.
 
-Right now, I'm working as a Recruitment Manager at [Optimal Hunters](http://www.optimalhunters.com/), where I'm making sure the company is bringing on the best and brightest. However, I'm always on the hunt for new opportunities where I can combine my tech skills with my love for HR. I'm a total tech nerd and innovation junkie, and I'm always looking for ways to use Data Science to make the world (or at least the workplace) a better place. So if you're looking for someone who's passionate about HR, tech-savvy, and always down for a new challenge, I'm your person!
+But here's the exciting part—I'm not your typical HR professional. Over the past few years, I've immersed myself in the world of technology, particularly Python Programming and Machine Learning. It's safe to say I'm hooked! I believe that the strategic use of data can revolutionize HR and create positive change in people's lives.
+
+I'm always on the lookout for opportunities that allow me to marry my tech skills with my love for HR. My passion for Data Science and cutting-edge technology keeps me constantly in search of ways to use them to make the workplace, and perhaps the world, a better place.
+
+So, if you're looking for someone who is passionate about both HR and technology, who can bring a fresh perspective to the table, and who is always ready for new challenges, look no further—I'm your person!
 
 # 🎓 Education
 BSc. in Economics | BSc. in Marketing | MSc. in Visual Analytics and Big Data | Specialist in Big Data and Artificial Intelligence | Specialist in Human Resources Management
