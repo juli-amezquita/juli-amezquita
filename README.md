@@ -1,6 +1,6 @@
 # Hey there!👋 
 
-I'm Juliana, and I'm passionate about blending technology and human resources! With a strong background in HR and a burning passion for technology, I bring a unique perspective to the table. Currently, I'm excelling as a Recruitment Manager at [Optimal Hunters](https://www.optimalhunters.com/), where I leverage my HR expertise to ensure our clients attract the best and brightest talent.
+I'm Juliana, and I'm passionate about blending technology and human resources! With a strong experience in HR and a burning passion for technology, I bring a unique perspective to the table. Currently, I'm excelling as a Recruitment Manager at [Optimal Hunters](https://www.optimalhunters.com/), where I leverage my HR expertise to ensure our clients attract the best and brightest talent.
 
 But here's the exciting part—I'm not your typical HR professional. Over the past few years, I've immersed myself in the world of technology, particularly Python Programming and Machine Learning. It's safe to say I'm hooked! I believe that the strategic use of data can revolutionize HR and create positive change in people's lives.
 
