@@ -4,20 +4,21 @@ I'm Juliana, and I'm passionate about blending technology and human resources! W
 
 But here's the exciting part—I'm not your typical HR professional. Over the past few years, I've immersed myself in the world of technology, particularly Python Programming and Machine Learning. It's safe to say I'm hooked! I believe that the strategic use of data can revolutionize HR and create positive change in people's lives.
 
-I'm always on the lookout for opportunities that allow me to marry my tech skills with my love for HR. My passion for Data Science and cutting-edge technology keeps me constantly in search of ways to use them to make the workplace, and perhaps the world, a better place.
+I'm always looking for opportunities that allow me to marry my tech skills with my love for HR. My passion for Data Science and cutting-edge technology keeps me constantly searching for ways to use them to make the workplace, and perhaps the world, a better place.
 
-So, if you're looking for someone who is passionate about both HR and technology, who can bring a fresh perspective to the table, and who is always ready for new challenges, look no further—I'm your person!
+So, if you're looking for someone passionate about HR and technology, who can bring a fresh perspective to the table, and who is always ready for new challenges, look no further—I'm your person!
 
 # 🎓 Education
 BSc. in Economics | BSc. in Marketing | MSc. in Visual Analytics and Big Data | Specialist in Big Data and Artificial Intelligence | Specialist in Human Resources Management
 
 # 👀 Areas of interests
 * HR Data Analytics / People Analytics
+* HR Metrics
+* HR Data Science
 * Machine Learning
 * NLP
 * Statistics
 * Data Visualization
-* Deep Learning
 * Running enthusiast! 🏃‍♀️
 
 # 📣 Where can you find me?<br/>
